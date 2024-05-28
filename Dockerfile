@@ -21,5 +21,5 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "wasi.js"]
+CMD ["node", "chui.js"]
 
