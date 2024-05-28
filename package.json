@@ -1,12 +1,12 @@
 {
-  "name": "Itxxwasi",
+  "name": "officialchui",
   "version": "2.0.0",
   "description": "",
-  "main": "wasi.js",
+  "main": "chui.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node wasi.js",
-    "itxxwasi": "pm2 start wasi.js --attach --max-memory-restart 490M",
+    "s": "node chui.js",
+    "itxxwasi": "pm2 start chui.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
