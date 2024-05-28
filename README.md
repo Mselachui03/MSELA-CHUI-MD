@@ -33,11 +33,11 @@
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/Mselachui03/msela-chui-md/fork"><img align="center" src="https://telegra.ph/file/b5e8a490b30177df71db0.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://github.com/Mselachui03/MSELA-CHUI-MD/fork"><img align="center" src="https://telegra.ph/file/b5e8a490b30177df71db0.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://msela-chui-pairer.onrender.com/qr)
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://chui-md.onrender.com)
 
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 
