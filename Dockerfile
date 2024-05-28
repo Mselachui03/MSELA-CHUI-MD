@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Mselachui03/MSELA-CHUI-MD.git  /root/officialchui
-WORKDIR /root/officialchui/
+RUN git clone https://github.com/Mselachui03/MSELA-CHUI-MD.git  /root/itxxwasi
+WORKDIR /root/itxxwasi/
 
 
 COPY package.json .
