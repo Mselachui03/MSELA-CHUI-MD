@@ -10,14 +10,14 @@
     "c": "tsc"
   },
   "keywords": [
-    "WASI",
+    "chui",
     "Baileys",
     "wasi",
     "whatsapp",
-    "unique-md",
-    "wasi"
+    "chui-md",
+    "chui"
   ],
-  "author": "Itxxwasi",
+  "author": "officialchui",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
