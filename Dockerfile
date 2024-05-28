@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Mselachui03/MSELA-CHUI-MD.git  /root/itxxwasi
-WORKDIR /root/itxxwasi/
+RUN git clone https://github.com/Itxxwasi/UNIQUE-MD.git  /root/Itxxwasi
+WORKDIR /root/Itxxwasi/
 
 
 COPY package.json .
@@ -21,5 +21,5 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "chui.js"]
+CMD ["node", "wasi.js"]
 
