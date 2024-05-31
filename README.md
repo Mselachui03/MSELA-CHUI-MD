@@ -47,7 +47,7 @@
 * choose your platform*
 
   <p align="left">
-<a href="https://msela-chui-pairer.onrender.com"><img align="center" src="https://telegra.ph/file/b5e8a490b30177df71db0.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://chui-md.onrender.com"><img align="center" src="https://telegra.ph/file/b5e8a490b30177df71db0.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 
 
 # 
