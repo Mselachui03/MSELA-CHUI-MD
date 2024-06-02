@@ -5,7 +5,7 @@
 <img src="https://telegra.ph/file/b5e8a490b30177df71db0.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=MSELA+CHUI+md+WHATSAPP+BOT+🐆" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=MSELA+CHUI+MD+WHATSAPP+BOT+🐆" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ᴠᴇɴᴏᴄʏʙᴇʀ-red.svg?style=for-the-badge&logo=github"></a>
