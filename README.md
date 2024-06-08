@@ -135,20 +135,38 @@ npm start
 </details>
 THANKS FOR USING 𝐌𝐒𝐄𝐋𝐀 𝐂𝐇𝐔𝐈 x ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ 💃💖
 
-* [🧑‍💻 Join mselachui Support Group 🧑‍💻](https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1)
 
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1)
+ 
+ [🧑‍💻 Join mselachui Support Group 🧑‍💻](https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1)
+
+
+
+ [🦄 Join Public Group 🦄](https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1)
 
      
-       ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
+       ⚠️ We are not responsible for any inconvenience caused by your mistakes!
 
   
   #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/mselachuitech/count.svg)
 
+
 <h1>💗</h1> 
+
 <b>Thanks For</b> -
 
- [mselachui03 https://wa.me/+260769355624💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [venocyber](http://github.com/Venocybertech) , [wasixd]() and [of] thanks for helps 💖
+ [mselachui03](https://wa.me/message/MSSH2UWWOQBDL1)
+ 
+ [cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) ,
+ 
+ [venocyber](http://github.com/Venocybertech) 
+ 
+ [Lazack](http://github.com/Lazack28) 
+
+ thanks to lazack for recode the bot
+
+
+
+--------------------
 
  ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1)
