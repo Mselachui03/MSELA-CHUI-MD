@@ -163,7 +163,7 @@ THANKS FOR USING 𝐌𝐒𝐄𝐋𝐀 𝐂𝐇𝐔𝐈 x ᴡʜᴀᴛsᴀᴘᴘ �
  
  [Lazack](http://github.com/Lazack28) 
 
- thanks to lazack for recode the bot
+ thanks to MSELACHUI03 🐯 💫 for recode the bot
 
 
 
