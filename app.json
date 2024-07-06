@@ -1,6 +1,5 @@
-
 {
-  "name":"MSELA CHUI MD 🐆",
+  "name":"MSELA CHUI MD 🐯",
   "description":"MSELA CHUI MD MULTIDIVICE CREATED BY MSELACHUI",
   "keywords":["MSELACHUI","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
@@ -36,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" 𝐌𝐒𝐄𝐋𝐀 𝐂𝐇𝐔𝐈 🐆 𝗠𝗗 𝗕𝗢𝗧",
+      "value":"MSELA CHUI 🐯 𝗠𝗗 𝗕𝗢𝗧",
       "required":false
 
     } ,
@@ -66,7 +65,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code or pair code",   
-      "value":""
+      "value":"",
       "required":true
       
     },
@@ -75,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR MSELACHUI"
+    "value": "MSELACHUI03🐯💫"
   },
     "NUMERO_OWNER":
   {
@@ -88,7 +87,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "3"
   },
   "STARTING_BOT_MESSAGE":
   {
@@ -120,4 +119,4 @@
       "plan":"heroku-postgresql"
     }
   ]
-  }
+    }
